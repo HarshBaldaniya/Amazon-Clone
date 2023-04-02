@@ -38,9 +38,10 @@ To see a demo of this project, check out this [Link](https://web-amazon-app.netl
 
 ## Screenshots
 
-![VideoScreenshot--YouTube-AmazonClone-1’41”](https://user-images.githubusercontent.com/89580214/229356851-d51895c4-abda-4fb7-9810-256f28e91936.jpg)
-![VideoScreenshot--YouTube-AmazonClone-0’36”](https://user-images.githubusercontent.com/89580214/229356852-b13aa10d-de56-4f08-9105-2086f7852c4d.jpg)
-![VideoScreenshot--YouTube-AmazonClone-0’01”](https://user-images.githubusercontent.com/89580214/229356854-3b339a7f-0386-44dc-996e-1163d71db48d.jpg)
+![VideoScreenshot--YouTube-AmazonClone-0’01”](https://user-images.githubusercontent.com/89580214/229356893-21f0429d-e09a-4195-baf2-eb33cfaa2c4a.jpg)
+![VideoScreenshot--YouTube-AmazonClone-0’36”](https://user-images.githubusercontent.com/89580214/229356898-99897166-c8f0-40ad-a81c-1a67b1f8eec6.jpg)
+![VideoScreenshot--YouTube-AmazonClone-1’41”](https://user-images.githubusercontent.com/89580214/229356903-0ae7d592-cb53-44fe-99c6-c0ab80a759f0.jpg)
+
 
 
 ## 🔗 Links
